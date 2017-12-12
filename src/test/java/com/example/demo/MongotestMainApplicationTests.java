@@ -13,9 +13,7 @@ public class MongotestMainApplicationTests {
 	public void contextLoads() {
 		int i56 = 42;
 
-		for (int i = 0; i < 10; i56++) {  // Noncompliant
-			System.out.println("hello");
-		}
+
 	}
 
 	@Test
